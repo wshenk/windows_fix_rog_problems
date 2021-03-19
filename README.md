@@ -1,4 +1,4 @@
-# How to fix problems with ROG 
+# How to fix problems with ASUS ROG Laptops running Windows  
 Screen doesn't turn on correctly? Disable Fast Boot/Hibernation
 Run CMD as an Administrator
 ```
