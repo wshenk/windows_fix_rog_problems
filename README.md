@@ -5,7 +5,7 @@ Run CMD as an Administrator
 powercfg.exe /h off
 ```
 
-No power options available
+No power options available?
 Run CMD as Administrator
 ```
 reg query HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
